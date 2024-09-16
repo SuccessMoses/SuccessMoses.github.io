@@ -1,0 +1,13 @@
+---
+title: "Shiny App documentation"
+output: html_document
+---
+
+### Documentation
+
+I created an application that classifies flowering plants based on **Sepal.Length**, **Sepal.Width**, **Petal.Width** and **Petal.Length**
+
+### How to use
+
+* Provide the necessary input that are required for classification.
+* A classification is immediately provided in the main panel.
